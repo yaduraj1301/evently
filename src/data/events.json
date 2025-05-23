@@ -1,0 +1,36 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "title": "Team Meeting",
+            "date": "2024-03-15",
+            "startTime": "10:00",
+            "endTime": "11:00",
+            "color": "#4285F4"
+        },
+        {
+            "id": 2,
+            "title": "Project Review",
+            "date": "2024-03-15",
+            "startTime": "11:30",
+            "endTime": "12:30",
+            "color": "#EA4335"
+        },
+        {
+            "id": 3,
+            "title": "Client Call",
+            "date": "2024-03-16",
+            "startTime": "14:00",
+            "endTime": "15:00",
+            "color": "#34A853"
+        },
+        {
+            "id": 4,
+            "title": "Lunch Break",
+            "date": "2024-03-15",
+            "startTime": "12:00",
+            "endTime": "13:00",
+            "color": "#FBBC05"
+        }
+    ]
+}
