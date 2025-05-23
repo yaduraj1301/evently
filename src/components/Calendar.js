@@ -122,7 +122,7 @@ const Calendar = () => {
                         isCurrentMonth={isSameMonth(day, currentDate)}
                         isToday={isToday(day)}
                     >
-                        <Typography variant="subtitle2">
+                        <Typography style={{ fontWeight: isToday(day) ? 'bold' : 'normal' }} variant="subtitle2">
                             {format(day, 'd')}
                         </Typography>
                         {dayEvents.map(event => (
